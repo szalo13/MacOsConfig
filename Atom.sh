@@ -17,3 +17,7 @@ apm install atom-javascript-snippets
 apm install csscomb-atom
 
 apm install color-picker
+
+apm install language-docker
+
+apm install atom-jade
