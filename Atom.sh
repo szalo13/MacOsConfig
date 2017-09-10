@@ -21,3 +21,5 @@ apm install color-picker
 apm install language-docker
 
 apm install atom-jade
+
+apm install tern
