@@ -14,7 +14,7 @@ apm install file-icons
 
 apm install atom-javascript-snippets
 
-apm install csscomb-atom
+apm install atom-csscomb
 
 apm install color-picker
 
