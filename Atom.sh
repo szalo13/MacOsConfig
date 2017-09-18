@@ -22,4 +22,4 @@ apm install language-docker
 
 apm install atom-jade
 
-apm install tern
+apm install atom-easy-jsdoc
