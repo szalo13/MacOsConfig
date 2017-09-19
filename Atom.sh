@@ -23,3 +23,5 @@ apm install language-docker
 apm install atom-jade
 
 apm install atom-easy-jsdoc
+
+apm install linter-eslint
