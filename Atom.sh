@@ -25,3 +25,5 @@ apm install atom-jade
 apm install atom-easy-jsdoc
 
 apm install linter-eslint
+
+apm install rest-client
