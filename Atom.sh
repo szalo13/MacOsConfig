@@ -27,3 +27,5 @@ apm install atom-easy-jsdoc
 apm install linter-eslint
 
 apm install rest-client
+
+apm install pigments
