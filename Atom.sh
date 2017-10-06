@@ -29,3 +29,5 @@ apm install linter-eslint
 apm install rest-client
 
 apm install pigments
+
+apm install atom-typescript
