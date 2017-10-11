@@ -10,6 +10,8 @@ apm install linter
 
 apm install git-plus
 
+apm install merge-conflicts
+
 apm install file-icons
 
 apm install atom-javascript-snippets
@@ -31,3 +33,4 @@ apm install rest-client
 apm install pigments
 
 apm install atom-typescript
+
