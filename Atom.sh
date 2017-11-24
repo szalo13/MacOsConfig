@@ -34,3 +34,8 @@ apm install pigments
 
 apm install atom-typescript
 
+apm install language-babel
+
+apm install autoclose-html
+
+apm install react
